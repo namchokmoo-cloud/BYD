@@ -1,0 +1,102 @@
+[
+  {
+    "id": "fresh-150",
+    "name": "Body Soap Fresh",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "150 ml",
+    "price": 89,
+    "image": "images/fresh.jpg",
+    "description": "น้ำหอมไซส์พกพากลิ่นสดชื่นโปร่งสบาย ให้คุณหยิบขึ้นมาเติมความตื่นตัวและเบาสบายได้ทุกที่ทุกเวลา"
+  },
+  {
+    "id": "sweet-150",
+    "name": "Body Soap Sweet",
+    "mood": "sweet",
+    "type": "spray",
+    "size": "150 ml",
+    "price": 89,
+    "image": "images/sweet.jpg",
+    "description": "น้ำหอมขนาดทดลองกลิ่นหวานละมุนอ่อนโยน พกความน่ารักอบอุ่นสบายใจติดกระเป๋าไปกับคุณได้ตลอดวัน"
+  },
+  {
+    "id": "confident-150",
+    "name": "Body Soap Confident",
+    "mood": "confident",
+    "type": "spray",
+    "size": "150 ml",
+    "price": 89,
+    "image": "images/confident.jpg",
+    "description": "น้ำหอมไซส์เล็กกลิ่นสะอาดดูดีมีระดับ ช่วยบูสต์ความนิ่งและความน่าเชื่อถือก่อนเข้าประชุมหรือพบปะผู้คนสำคัญ"
+  },
+  {
+    "id": "romance-150",
+    "name": "Body Soap Romance",
+    "mood": "romance",
+    "type": "spray",
+    "size": "150 ml",
+    "price": 89,
+    "image": "images/romance.jpg",
+    "description": "น้ำหอมขนาดพกพากลิ่นหวานอบอุ่นชวนหลงใหล พร้อมสร้างเสน่ห์น่าจดจำให้คุณได้ในทุกโอกาสพิเศษ"
+  },
+  {
+    "id": "fresh-500",
+    "name": "Body Soap Fresh",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "500 ml",
+    "price": 199,
+    "image": "images/fresh.jpg",
+    "description": "ขวดใหญ่ใช้ได้จุใจในทุกเช้า มอบความหอมโปร่งเบาสบายเหมือนเพิ่งอาบน้ำเสร็จใหม่ให้คุณสดชื่นตลอดทั้งวัน"
+  },
+  {
+    "id": "sweet-500",
+    "name": "Body Soap Sweet",
+    "mood": "sweet",
+    "type": "spray",
+    "size": "500 ml",
+    "price": 199,
+    "image": "images/sweet.jpg",
+    "description": "น้ำหอมไซส์ใหญ่สำหรับฉีดเติมความหวานแผ่วเบาและอบอุ่นละมุนใจ ให้ทุกวันของคุณเต็มไปด้วยความอ่อนโยน"
+  },
+  {
+    "id": "confident-500",
+    "name": "Body Soap Confident",
+    "mood": "confident",
+    "type": "spray",
+    "size": "500 ml",
+    "price": 199,
+    "image": "images/confident.jpg",
+    "description": "ขวดใหญ่คู่ใจประจำวันด้วยกลิ่นหอมสะอาดภูมิฐาน เสริมความมั่นใจให้คุณดูดีและพร้อมรับมือกับทุกสถานการณ์"
+  },
+  {
+    "id": "romance-500",
+    "name": "Body Soap Romance",
+    "mood": "romance",
+    "type": "spray",
+    "size": "500 ml",
+    "price": 199,
+    "image": "images/romance.jpg",
+    "description": "น้ำหอมขวดใหญ่กลิ่นหวานลุ่มลึกน่าค้นหา ให้คุณฉีดพรมสร้างบรรยากาศโรแมนติกและเสน่ห์อันอบอุ่นได้อย่างเต็มที่"
+  },
+  {
+    "id": "fresh-rollon",
+    "name": "Body Soap Roll-On Fresh",
+    "mood": "fresh",
+    "type": "rollon",
+    "size": null,
+    "price": 149,
+    "image": "images/fresh.jpg",
+    "description": "โรลออนกลิ่นสดชื่นเบาสบาย ช่วยปกป้องกลิ่นกายพร้อมให้ความรู้สึกสะอาดโปร่งโล่งใต้วงแขนตลอดวัน"
+  },
+  {
+    "id": "sweet-rollon",
+    "name": "Body Soap Roll-On Sweet",
+    "mood": "sweet",
+    "type": "rollon",
+    "size": null,
+    "price": 149,
+    "image": "images/sweet.jpg",
+    "description": "โรลออนกลิ่นหวานละมุนอ่อนโยน ดูแลผิวใต้วงแขนให้หอมน่ารักและรู้สึกสบายใจทุกครั้งที่เคลื่อนไหว"
+  }
+]
